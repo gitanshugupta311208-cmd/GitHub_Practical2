@@ -1,2 +1,2 @@
 # GitHub_Practical2
-My second repository on github
+My second repository on Github
